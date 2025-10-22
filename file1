@@ -4,17 +4,3 @@ app = Flask(__name__)
 
 @app.route('/')
 def home()
-
-=======
-    return "Welcome to hello's Flask App!"
->>>>>>> 6dae195 (hdi)
-
-
-
-
-
-
-
-
-
-
